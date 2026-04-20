@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Viral Shah Lab
 subtitle: Physiologic Regeneration
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+description: Viral Shah Lab studies physiologic regeneration
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -9,10 +9,10 @@ proofer: false
 # site social media and other links
 links:
   email: viralshahlab@gmail.com
-  orcid: https://orcid.org/0000-0002-3605-8066
+  orcid: 0000-0002-3605-8066
   google-scholar: https://scholar.google.com/citations?hl=en&user=6SISeb8AAAAJ
-  pubmed:  
-  youtube: https://youtube.com/playlist?list=PLS-0_ATLgtJraww6TzpFyqgsD2UKpY_wL&si=A8S1cwfkcNn6-DAi
+  pubmed:  https://www.ncbi.nlm.nih.gov/myncbi/viral.shah.2/bibliography/public/
+  youtube: playlist?list=PLS-0_ATLgtJraww6TzpFyqgsD2UKpY_wL&si=A8S1cwfkcNn6-DAi
 
 ### jekyll settings
 
