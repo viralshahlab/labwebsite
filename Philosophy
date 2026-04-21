@@ -581,19 +581,19 @@
     
       
         <a
-          href="/labwebsite/research/"
-          data-tooltip="Published works"
+          href="/labwebsite/projects/"
+          data-tooltip="Software, datasets, and more"
         >
-          Research
+          Projects
         </a>
       
     
       
         <a
-          href="/labwebsite/projects/"
-          data-tooltip="Software, datasets, and more"
+          href="/labwebsite/research/"
+          data-tooltip="Published works"
         >
-          Projects
+          Publications
         </a>
       
     
