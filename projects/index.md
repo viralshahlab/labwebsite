@@ -2,10 +2,10 @@
 title: Science
 nav:
   order: 2
-  tooltip: Learn the Science
+  tooltip: See what Science we do
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Science
+# {% include photo.html photo="fa-solid fa-wrench" %}Science
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
