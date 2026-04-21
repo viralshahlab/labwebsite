@@ -15,8 +15,9 @@
   date: '2025-04-16'
   link: https://doi.org/hbx2zb
   orcid: 0000-0002-3605-8066
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
 - id: doi:10.1111/resp.14857
   title: "The\n                    <scp>TIPping</scp>\n                    point:\
     \ Inflammation and Ionocyte loss"
@@ -53,8 +54,9 @@
   date: '2024-05-01'
   link: https://doi.org/hbx2zd
   orcid: 0000-0002-3605-8066
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41586/629/8013
 - id: doi:10.1165/rcmb.2023-0169ED
   title: "Cystic Fibrosis: \u201CIonocyte Modulators\u201D?"
   authors:
@@ -64,8 +66,9 @@
   date: '2023-09-01'
   link: https://doi.org/hbx2zf
   orcid: 0000-0002-3605-8066
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ajrcmb/Issue/69/3/1/m_cover.gif?Expires=1779837019&Signature=3ONcfHuF4B5aeND0JhFpTSHFlY-3Pl1UckAnev4lftwzvA9R6vwiG2oFBv51~YQovdFFkUQM0qKFlVECnK3C9p7~T969KDbDh2PCV7mntZMaBvcum3ZFID21sShCn0qbAY4MNmt80KKwtH0K7aMOncgC4ZorHv6BRVFDCDzOi9wtdrVl-7-NPf~so-c08FzxHjtVGFBelVIcf0IWFg9NXtjYr5JIkJ7stv3ao8RKJaWW3JZwCAxQZJ0ZR2tFD4FkCg8WpuRb8Pc-~xMEl8r8LyMHIYz6zdrrTWh66jjnqR1vbb5VMSF8WtOnVKyEPW6Eo7af8-1gS8C4Yxp7DhTs3g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.7554/eLife.84375
   title: Autofluorescence imaging permits label-free cell type assignment and reveals
     the dynamic formation of airway secretory cell associated antigen passages (SAPs)
@@ -83,37 +86,6 @@
   orcid: 0000-0002-3605-8066
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1146/annurev-pathol-042420-094031
   title: 'Cystic Fibrosis and the Cells of the Airway Epithelium: What Are Ionocytes
     and What Do They Do?'
