@@ -5,7 +5,7 @@ nav:
   tooltip: See what Science we do
 ---
 
-# {% include photo.html photo="fa-solid fa-wrench" %}Science
+# {% include icon.html icon="fa-solid fa-wrench" %}Science
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
