@@ -1,21 +1,12 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+- id: doi:10.1101/2025.04.15.648833
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  
+- id: doi:10.1038/s41586-024-07377-1
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41586/629/8013
 
+- id: doi:10.1165/rcmb.2023-0169ED
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ajrcmb/Issue/69/3/1/m_cover.gif?Expires=1779837019&Signature=3ONcfHuF4B5aeND0JhFpTSHFlY-3Pl1UckAnev4lftwzvA9R6vwiG2oFBv51~YQovdFFkUQM0qKFlVECnK3C9p7~T969KDbDh2PCV7mntZMaBvcum3ZFID21sShCn0qbAY4MNmt80KKwtH0K7aMOncgC4ZorHv6BRVFDCDzOi9wtdrVl-7-NPf~so-c08FzxHjtVGFBelVIcf0IWFg9NXtjYr5JIkJ7stv3ao8RKJaWW3JZwCAxQZJ0ZR2tFD4FkCg8WpuRb8Pc-~xMEl8r8LyMHIYz6zdrrTWh66jjnqR1vbb5VMSF8WtOnVKyEPW6Eo7af8-1gS8C4Yxp7DhTs3g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  
 - id: doi:10.1146/annurev-pathol-042420-094031
   image: https://www.annualreviews.org/docserver/fulltext/pathmechdis-184x258.png
 
