@@ -16,11 +16,11 @@
     - collaboration
   repo: greenelab/meta-review
 
-- id: doi: 10.1146/annurev-pathol-042420-094031
-image: https://www.annualreviews.org/docserver/fulltext/pathmechdis-184x258.png
+- id: doi:10.1146/annurev-pathol-042420-094031
+  image: https://www.annualreviews.org/docserver/fulltext/pathmechdis-184x258.png
 
-- id: doi: 10.1073/pnas.1604905113
-image: https://www.pnas.org/cms/asset/6a104d88-b8d3-45e2-a0d9-505d2f929506/pnas.2016.113.issue-19.largecover.png
+- id: doi:10.1073/pnas.1604905113
+  image: https://www.pnas.org/cms/asset/6a104d88-b8d3-45e2-a0d9-505d2f929506/pnas.2016.113.issue-19.largecover.png
 
-- id: doi: 10.1126/science.aad5589
-image: https://www.science.org/cms/asset/73184a3a-5a46-44e9-aea2-e61c820aaa1e/science.2016.351.issue-6272.largecover.jpg
+- id: doi:10.1126/science.aad5589
+  image: https://www.science.org/cms/asset/73184a3a-5a46-44e9-aea2-e61c820aaa1e/science.2016.351.issue-6272.largecover.jpg
