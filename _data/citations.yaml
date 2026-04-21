@@ -83,3 +83,94 @@
   orcid: 0000-0002-3605-8066
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1146/annurev-pathol-042420-094031
+  title: 'Cystic Fibrosis and the Cells of the Airway Epithelium: What Are Ionocytes
+    and What Do They Do?'
+  authors:
+  - Viral S. Shah
+  - Raghu R. Chivukula
+  - Brian Lin
+  - Avinash Waghray
+  - Jayaraj Rajagopal
+  publisher: 'Annual Review of Pathology: Mechanisms of Disease'
+  date: '2022-01-24'
+  link: https://doi.org/hbx3k4
+  image: https://www.annualreviews.org/docserver/fulltext/pathmechdis-184x258.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.1604905113
+  title: "Relationships among CFTR expression, HCO\n            <sub>3</sub>\n   \
+    \         <sup>\u2212</sup>\n            secretion, and host defense may inform\
+    \ gene- and cell-based cystic fibrosis therapies"
+  authors:
+  - Viral S. Shah
+  - Sarah Ernst
+  - Xiao Xiao Tang
+  - Philip H. Karp
+  - Connor P. Parker
+  - Lynda S. Ostedgaard
+  - Michael J. Welsh
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2016-04-25'
+  link: https://doi.org/f8jxfd
+  image: https://www.pnas.org/cms/asset/6a104d88-b8d3-45e2-a0d9-505d2f929506/pnas.2016.113.issue-19.largecover.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/science.aad5589
+  title: Airway acidification initiates host defense abnormalities in cystic fibrosis
+    mice
+  authors:
+  - Viral S. Shah
+  - David K. Meyerholz
+  - Xiao Xiao Tang
+  - Leah Reznikov
+  - Mahmoud Abou Alaiwa
+  - Sarah E. Ernst
+  - Philip H. Karp
+  - Christine L. Wohlford-Lenane
+  - Kristopher P. Heilmann
+  - Mariah R. Leidinger
+  - Patrick D. Allen
+  - Joseph Zabner
+  - Paul B. McCray
+  - Lynda S. Ostedgaard
+  - David A. Stoltz
+  - Christoph O. Randak
+  - Michael J. Welsh
+  publisher: Science
+  date: '2016-01-29'
+  link: https://doi.org/f78c62
+  image: https://www.science.org/cms/asset/73184a3a-5a46-44e9-aea2-e61c820aaa1e/science.2016.351.issue-6272.largecover.jpg
+  plugin: sources.py
+  file: sources.yaml
