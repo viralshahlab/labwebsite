@@ -7,18 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Our Philosophy
 
-This is not just a job for us, but this is our passion!
+**This is not just a job — it is a calling.**
 
-We're excited to be here, uncover new, fundamental biology, and use that understanding to find ways to help people. 
-Our approach to Science is to ask deliberate questions, rigorously follow the data, and create something that could meaningfully improve people's lives.
-Our standards are high and it makes us better able to transform medicine.
+We are here because we are genuinely **excited** to uncover new biology and use that understanding to help people. That motivation drives everything we do.
 
-We take a team approach, supporting each other through the inevitable frustrations of Science, and celebrating all the wins (no matter how small). 
+Our approach is simple: ask deliberate questions, follow the data wherever it leads, and hold ourselves to the highest standards. We believe that rigorous, curiosity-driven science is the most direct path to develop new therapeutic strategies. And we pursue it with conviction every day.
 
-Mentorship is my number 1 priority and I am excited to help you become the best version of your self! I take a personalized approach to help you develop your scientific thinking, technical skills, and creating opportunities to explore.
-Moreover, I hope to help you beyond the lab and provide guidance in career planning, grant writing, networking, and navigating the job market. I am ultimately committed to help you succeed in your chosen career path. 
+**We are a team.** Science is hard. Experiments fail, hypotheses are wrong, and progress is slower than we want. We get through that **together**, supporting each other through the frustrations and celebrating every win. Our community gives us energy, resilience, and unbounded creativity to overcome any setbacks.
 
-If you want to be part of a fun, vibrant environment, where you feel that what you're doing matters and are not afraid to go after that, then come join us!
+Mentorship is my number one priority. My door is always open. I am genuinely excited to help you grow, both as a scientist and as a person. That means personalized attention to your scientific thinking, your technical development, and your career goals. It also means real investment in the things that come next: grant writing, job searching, networking, navigating the academic world. I am committed to helping you succeed in whatever path you choose.
+
+If you wake up excited about science, care deeply about making a difference, and want to be part of a team that shares that energy, this is your place. **Come join us!**
 
 {% include section.html %}
 
