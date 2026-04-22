@@ -28,8 +28,9 @@
   date: '2024-11-19'
   link: https://doi.org/hbx2zc
   orcid: 0000-0002-3605-8066
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/b1d6724c-77f4-447c-943f-a6a824cf64e9/resp.v30.1.cover.jpg
 - id: doi:10.1038/s41586-024-07377-1
   title: Airway hillocks are injury-resistant reservoirs of unique plastic stem cells
   authors:
@@ -84,8 +85,9 @@
   date: '2023-03-30'
   link: https://doi.org/hbx2zh
   orcid: 0000-0002-3605-8066
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://elifesciences.org/assets/patterns/img/patterns/organisms/elife-logo-xs.5a3c8c68.svg
 - id: doi:10.1146/annurev-pathol-042420-094031
   title: 'Cystic Fibrosis and the Cells of the Airway Epithelium: What Are Ionocytes
     and What Do They Do?'
@@ -143,6 +145,6 @@
   publisher: Science
   date: '2016-01-29'
   link: https://doi.org/f78c62
-  image: https://www.science.org/cms/asset/73184a3a-5a46-44e9-aea2-e61c820aaa1e/science.2016.351.issue-6272.largecover.jpg
+  image: images/science.jpg
   plugin: sources.py
   file: sources.yaml
