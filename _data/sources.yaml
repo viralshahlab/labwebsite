@@ -17,7 +17,7 @@
   image: https://www.pnas.org/cms/asset/6a104d88-b8d3-45e2-a0d9-505d2f929506/pnas.2016.113.issue-19.largecover.png
 
 - id: doi:10.1126/science.aad5589
-  image="images/science.jpg"
+  image: images/science.jpg
 
 - id: doi:10.7554/eLife.84375
   image: https://elifesciences.org/assets/patterns/img/patterns/organisms/elife-logo-xs.5a3c8c68.svg
