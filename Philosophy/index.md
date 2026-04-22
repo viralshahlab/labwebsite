@@ -21,16 +21,12 @@ If you wake up excited about science, care deeply about making a difference, and
 
 {% include section.html %}
 
-## Highlighted
+## Code of Conduct
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+- **We treat each other with respect.** The lab includes people from all walks of life, backgrounds, and experiences. Everyone deserves to be heard, taken seriously, and treated with dignity. We value everyone's unique perspective. Harrasment of any kind is not tolerated.
+- **We do rigorous science.** We design experiments to test hypotheses, not confirm them. We report what we find, not what we hoped to find. We do not cut corners on controls, replicates, or documentation. If a result seems too clean, we question it. Our credibility as scientists depends entirely on the integrity of our data.
+- **We own our mistakes.** Experiments fail. Analyses have errors. That is normal. What is not acceptable is hiding a mistake, minimizing it, or hoping no one notices. Bring problems forward early. We fix them together and move on. A lab that can identify and correct its own errors is a lab that can be trusted. We expect ethical behavior in all of the lab's activities.
+- **We share credit generously.** Science is collaborative. We acknowledge contributions, cite colleagues fairly, and do not compete internally for recognition. A win for one person in this lab is a win for all of us. Karma has a way of coming back to you.
+- **We communicate openly.** If something is not working — an experiment, a collaboration, a relationship, a career concern — say so. My door is always open. Problems that are named can be solved. Problems that are hidden grow.
+- **We represent this lab well.** At conferences, in collaborations, in how we talk about our work and others' work — we are professional, honest, and generous. How we behave outside this lab reflects on everyone in it.
+- **We are here to grow.** Every person in this lab is here to become a better scientist and a more capable person. That requires taking intellectual risks, asking questions that might seem obvious, and being willing to be wrong in front of others. That kind of vulnerability is encouraged here, not penalized.
