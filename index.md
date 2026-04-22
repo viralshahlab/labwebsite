@@ -10,7 +10,7 @@ Our central hypothesis is that this gap — restored cell fate without restored 
 
 
 ## The Vision and Mission
->### Our goal is to make regeneration functional, not just anatomical.
+>#### Our goal is to make regeneration functional, not just anatomical.
 {% capture text %}
 
 Learn more about Physiologic Regeneration and the work we do.
