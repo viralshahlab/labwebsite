@@ -11,8 +11,8 @@ Meet the Shah Lab! We have open positions for research technicians, graduate stu
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'Principle-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role != 'Principle-investigator'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
