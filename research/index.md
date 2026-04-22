@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-pencil-square-o" %}Publications
+# {% include icon.html icon="fa-solid fa-pencil" %}Publications
 
 Below are some key publications of the ongoing work in the lab.
 
