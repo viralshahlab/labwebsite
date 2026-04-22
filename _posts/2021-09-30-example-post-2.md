@@ -1,6 +1,8 @@
 ---
-title: Example post 2
-author: jane-smith
+title: Yohana "survives" her first summer
+author: Viral Shah
+image: images/minuspoints.jpeg
+tags:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Yohana works during the school year and finishes her second summer internship in the MGH Biomedical Research Internship Program!
