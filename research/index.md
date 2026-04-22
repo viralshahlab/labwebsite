@@ -10,7 +10,7 @@ nav:
 Below are some key publications of the ongoing work in the lab.
 {%
   include button.html
-  link= (https://www.ncbi.nlm.nih.gov/myncbi/viral.shah.2/bibliography/public/)
+  link="https://www.ncbi.nlm.nih.gov/myncbi/viral.shah.2/bibliography/public/"
   text="Pubmed"
   icon="fa-solid fa-arrow-right"
   flip=true
