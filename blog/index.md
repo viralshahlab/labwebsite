@@ -1,11 +1,11 @@
 ---
-title: Fun!
+title: Fun
 nav:
   order: 5
   tooltip: Fun and Celebrations!
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab Events
+# {% include icon.html icon="fa-solid fa-birthday-cake" %}Lab Events
 
 Some of the fun and celebratory times in the lab!
 
