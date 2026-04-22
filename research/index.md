@@ -15,6 +15,8 @@ Below are some key publications of the ongoing work in the lab.
 
 {% include citation.html lookup="Airway hillocks are injury-resistant reservoirs of unique plastic stem cells" style="rich" %}
 
+{% include citation.html lookup="Airway acidification initiates host defense abnormalities in cystic fibrosis" style="rich" %}
+
 {% include section.html %}
 
 ## All
