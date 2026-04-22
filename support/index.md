@@ -5,7 +5,7 @@ nav:
   tooltip: Email
 ---
 
-# {% include icon.html icon="fa fa-handshake-o" %}Support
+# {% include icon.html icon="fa-solid fa-line-chart" %}Support
 
 We are deeply grateful to the wide variety of organizations and philanthropy who support our work!
 
