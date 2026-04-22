@@ -1,6 +1,6 @@
 ---
 title: Yohana "survives" her first summer
-author: sarah-johnson
+author: Viral Shah
 image: images/YO_first.jpg
 tags:
 ---
