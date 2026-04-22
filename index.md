@@ -9,13 +9,13 @@ We work at the intersection of stem cell biology, developmental biology, and epi
 Our central hypothesis is that this gap — restored cell fate without restored function — is a shared pathophysiologic mechanism underlying cystic fibrosis, COPD, bronchiectasis, post-viral lung disease, and other conditions where the airway never fully recovers
 
 
-## The Vision and Mission
+## The Vision
 >#### Our goal is to make regeneration functional, not just anatomical.
 {% capture text %}
 
 Clinically, we see a **paradox**. After injury, the airway surface is reconstituted. All the cell types are made. _And yet there remains a persistent susceptibility to infection and further injury_.
 
-Our approach fuses developmental biology and physiology to interrogate this paradox. We utilize mouse genetics, stem cell biology, human and murine in vitro and ex vivo airway models, quantitative airway surface physiology assays, and novel live-imaging approaches. These tools allow us to dissect the molecular and cellular pathways that become aberrant during regeneration and predispose regenerated epithelia to chronic diseases.
+Our approach fuses developmental biology and physiology to interrogate this paradox. Using mouse genetics, stem cell biology, human airway models, quantitative airway surface physiology assays, and novel live-imaging approaches, we dissect the molecular and cellular pathways that become aberrant during regeneration and predispose to chronic diseases.
 
 {%
   include button.html
@@ -54,7 +54,7 @@ This vision depends on team science and close collaborations with investigators 
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Publications"
+  title="Our Mission"
   flip=true
   style="bare"
   text=text
