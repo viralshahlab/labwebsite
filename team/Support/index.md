@@ -25,7 +25,7 @@ No gift is too small. Please contact us below to support our investigations.
 
 {%
   include figure.html
-  image="images/cabd-logo.png"
+  image="images/NHLBI.png"
 %}
 
 {% endcapture %}
@@ -34,7 +34,7 @@ No gift is too small. Please contact us below to support our investigations.
 
 {%
   include figure.html
-  image="images/csic-logo.png"
+  image="images/CFF.jpg"
 %}
 
 {% endcapture %}
@@ -43,7 +43,7 @@ No gift is too small. Please contact us below to support our investigations.
 
 {%
   include figure.html
-  image="images/upo-logo.png"
+  image="images/vertex.jpg"
 %}
 
 {% endcapture %}
@@ -54,7 +54,7 @@ No gift is too small. Please contact us below to support our investigations.
 
 {%
   include figure.html
-  image="images/Maeztu.png"
+  image="images/NEDS.jpg"
 %}
 
 {% endcapture %}
