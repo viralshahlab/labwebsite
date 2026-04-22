@@ -1,7 +1,7 @@
 ---
 name: Viral Shah
 image: images/Shah-Viral.jpg
-role: principal-investigator
+role: pi
 affiliation: 
 aliases:
 - Viral S Shah
