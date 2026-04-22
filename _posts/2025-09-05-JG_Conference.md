@@ -1,6 +1,6 @@
 ---
 title: Juliette presents her works at the 2025 Latino Medical Student Association National Conference
-author: Viral Shah
+author: ""
 image: images/Juliette.jpg
 tags:
 last_modified_at: ""
