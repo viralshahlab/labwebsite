@@ -9,55 +9,17 @@ We work at the intersection of stem cell biology, developmental biology, and epi
 
 Our central hypothesis is that this gap — restored cell fate without restored function — is a shared pathophysiologic mechanism underlying cystic fibrosis, COPD, bronchiectasis, post-viral lung disease, and other conditions where the airway never fully recovers
 
-**Our goal is to make regeneration functional, not just anatomical**.
-
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
-
 {% include section.html %}
 
-## Highlights
-
+## Our goal is to make regeneration functional, not just anatomical.
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Learn more about Physiologic Regeneration and the work we do.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Our Science"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -69,7 +31,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Science"
+  text=text
+%}
+
+{% capture text %}
+
+Read some of our work.
+
+{%
+  include button.html
+  link="research"
+  text="See our Publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text
@@ -77,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet the people who make the magic happen!
 
 {%
   include button.html
