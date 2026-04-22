@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Meet the Shah Lab! We have open positions for research technicians, graduate students, and postdocs. If you're interested please send [Viral](labwebsite/contact) your CV/Resume, what your interests are, and overall goals. 
+Meet the Shah Lab! We have open positions for research technicians, graduate students, and postdocs. If you're interested please send [Viral](mailto:viralshahlab@gmail.com) your CV/Resume, what your interests are, and overall goals. 
 
 {% include section.html %}
 
