@@ -21,7 +21,6 @@ Learn more about Physiologic Regeneration and the work we do.
   text="Our Science"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
@@ -44,7 +43,6 @@ Read some of our work.
   text="See our Publications"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
@@ -69,7 +67,6 @@ Meet the people who make the magic happen!
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
