@@ -76,4 +76,4 @@ No gift is too small. Please contact us below to support our investigations.
 %}
 
 {% endcapture %}
-
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
