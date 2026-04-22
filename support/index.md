@@ -72,7 +72,7 @@ No gift is too small. Please contact us below to support our investigations.
 
 {%
   include figure.html
-  image="images/Junta_logo.png"
+  image="images/dillonscholar.jpg"
 %}
 
 {% endcapture %}
