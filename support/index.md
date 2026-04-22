@@ -54,7 +54,7 @@ No gift is too small. Please contact us below to support our investigations.
 
 {%
   include figure.html
-  image="images/NEDS.jpg"
+  image="images/lungmap.png"
 %}
 
 {% endcapture %}
