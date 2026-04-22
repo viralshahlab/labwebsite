@@ -2,7 +2,7 @@
 name: Viral Shah
 image: images/photo.jpg
 role: principal-investigator
-affiliation: ***
+affiliation: 
 aliases:
   - V. Shah
   - V Shah
