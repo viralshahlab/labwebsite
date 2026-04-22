@@ -4,8 +4,6 @@ image: images/Shah-Viral.jpg
 role: principal-investigator
 affiliation: 
 aliases:
-  - V. Shah
-  - V Shah
 links:
   home-page: https://connects.catalyst.harvard.edu/Profiles/display/Person/159120
   orcid: 0000-0002-3605-806
