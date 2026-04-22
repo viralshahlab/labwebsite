@@ -30,7 +30,7 @@
   orcid: 0000-0002-3605-8066
   plugin: sources.py
   file: sources.yaml
-  image: image/respcover.jpg
+  image: images/respcover.jpg
 - id: doi:10.1038/s41586-024-07377-1
   title: Airway hillocks are injury-resistant reservoirs of unique plastic stem cells
   authors:
@@ -146,5 +146,43 @@
   date: '2016-01-29'
   link: https://doi.org/f78c62
   image: images/science.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-025-60441-w
+  title: Single cell profiling of human airway identifies tuft-ionocyte progenitor
+    cells displaying cytokine-dependent differentiation bias in vitro
+  authors:
+  - Viral S. Shah
+  - Avinash Waghray
+  - Brian Lin
+  - Atharva Bhagwat
+  - Isha Monga
+  - Michal Slyper
+  - Bruno Giotti
+  - Sunghyun Kim
+  - Dawei Sun
+  - Ke Xu
+  - Eric Park
+  - Mohamad Bairakdar
+  - Jiajie Xu
+  - Julia Waldman
+  - Danielle Dionne
+  - Lan T. Nguyen
+  - Wendy Lou
+  - Peiwen Cai
+  - Christoph Muus
+  - Jiawei Sun
+  - Manalee V. Surve
+  - Lujia Cha Cha Yang
+  - Orit Rozenblatt-Rosen
+  - Toni M. Delorey
+  - Srinivas Vinod Saladi
+  - Aviv Regev
+  - Jayaraj Rajagopal
+  - Alexander M. Tsankov
+  publisher: Nature Communications
+  date: '2025-06-04'
+  link: https://doi.org/hbx32m
+  image: https://upload.wikimedia.org/wikipedia/commons/b/b1/Naturecomms.jpg
   plugin: sources.py
   file: sources.yaml
