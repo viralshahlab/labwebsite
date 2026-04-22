@@ -1,14 +1,13 @@
 ---
-title: Events
+title: Fun!
 nav:
   order: 5
-  tooltip: Musings and miscellany
+  tooltip: Fun and Celebrations!
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab Events
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Some of the fun and celebratory times in the lab!
 
 {% include section.html %}
 
