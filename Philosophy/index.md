@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Our Philosophy
 
-**This is not just a job — it's a calling**
+>**This is not just a job — it's a calling**
 
 We are here because we are genuinely **excited** to uncover new biology and use that understanding to help people. That motivation drives everything we do.
 
