@@ -7,7 +7,14 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-pencil" %}Publications
 
-Below are some key publications of the ongoing work in the lab.
+Check out some of our research presentations and publications here.
+{%
+  include button.html
+  link="https://www.youtube.com/playlist?list=PLS-0_ATLgtJraww6TzpFyqgsD2UKpY_wL"
+  text="Talks"
+  icon="fa-brands fa-youtube"
+  flip=true
+%}
 {%
   include button.html
   link="https://www.ncbi.nlm.nih.gov/myncbi/viral.shah.2/bibliography/public/"
