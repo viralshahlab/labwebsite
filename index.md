@@ -12,7 +12,6 @@ Our central hypothesis is that this gap — restored cell fate without restored 
 ## The Vision
 >#### Our goal is to make regeneration functional, not just anatomical.
 {% capture text %}
-
 Clinically, we see a **paradox**. After injury, the airway surface is reconstituted. All the cell types are made. _And yet there remains a persistent susceptibility to infection and further injury_.
 
 Our approach fuses developmental biology and physiology to interrogate this paradox. Using mouse genetics, stem cell biology, human airway models, quantitative airway surface physiology assays, and novel live-imaging approaches, we dissect the molecular and cellular pathways that become aberrant during regeneration and predispose to chronic diseases.
