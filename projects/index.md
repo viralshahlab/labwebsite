@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-flask" %}Science
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We study Physiologic Regeneration. This is a fusion of stem cell biology and physiologoy to define how function is restored after regeneration. We use the airway surface epithelium as a model system as it is constantly exposed to the environment and must recover after injury. The airway also performs a number of vital measurable physiologic outputs. 
 
 {% capture text %}
 
@@ -19,7 +18,7 @@ We recently discovered the function of a new airway stem cell called the hillock
 {%
   include feature.html
   image="images/hillock expansion.gif"
-  title="Hillocks Survive Injury and Expand"
+  title="Hillocks Survive Injury and Regenerate the Surface Epithelium"
   text=text
 %}
 
@@ -32,7 +31,7 @@ The major question is that after hillock regeneration, is airway physiology rest
 {%
   include feature.html
   image="images/Hurricane_small.gif"
-  title="Do Hillocks Regenerate Physiology?"
+  title="Do Hillocks Restore Surface Physiology?"
   flip=true
   style="bare"
   text=text
@@ -40,7 +39,7 @@ The major question is that after hillock regeneration, is airway physiology rest
 
 {% capture text %}
 
-We are building something here that is bigger than any single paper or discovery. We are training the next generation of scientists. This lab runs on genuine collaboration: we push each other's thinking, cover each other's blind spots, and celebrate each other's wins as our own. Mentorship flows in every direction because we believe that a team that invests in each other produces better science and better scientists than any individual working alone ever could. Everyone who leaves this lab will be ready to ask bold questions, do rigorous work, and make a difference.
+Diseases like Cystic Fibrosis and Primary Ciliary Dyskinesia are cause be defective genes in the airway epithelium. If we can restore the defective genes in airway stem cells, we may be able to improve these diseases for countless people. As the hillock is the primary stem cell source for regenerating the airways, if we are able to apply gene therapy to hillock stem cells, we can develop a durable and effective treatment. 
 
 {% endcapture %}
 
