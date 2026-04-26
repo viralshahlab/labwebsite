@@ -28,7 +28,7 @@ Our approach fuses developmental biology and physiology to interrogate this para
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/hillock_SEM.png"
   link="projects"
   title="Our Science"
   text=text
