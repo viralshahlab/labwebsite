@@ -75,7 +75,7 @@ We are building something here that is bigger than any single paper or discovery
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/JG_summer1.jpg"
   link="team"
   title="Our Team"
   text=text
