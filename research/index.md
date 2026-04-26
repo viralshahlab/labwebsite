@@ -9,7 +9,7 @@ nav:
 
 Check out some of our research presentations and publications here. We are big fans of having our members at all levels gives talks, present posters, and produce scientific literature!
 
-Click the link [here](https://www.youtube.com/playlist?list=PLS-0_ATLgtJraww6TzpFyqgsD2UKpY_wL) to see our talks!
+Click [here](https://www.youtube.com/playlist?list=PLS-0_ATLgtJraww6TzpFyqgsD2UKpY_wL) to see our talks!
 
 {%
   include button.html
