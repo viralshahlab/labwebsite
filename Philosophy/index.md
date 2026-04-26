@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Our Philosophy
 
->**This is not just a job — it's a calling**
+>**We are here because we find this genuinely interesting and because the questions we're asking actually matter for people who are sick**
 
 We are here because we are genuinely **excited** to uncover new biology and use that understanding to help people. That motivation drives everything we do.
 
@@ -30,4 +30,4 @@ If you wake up excited about science, care deeply about making a difference, and
 - **We communicate openly.** If something is not working — an experiment, a collaboration, a relationship, a career concern — say so. My door is always open. Problems that are named can be solved. Problems that are hidden grow.
 - **We represent this lab well.** At conferences, in collaborations, in how we talk about our work and others' work — we are professional, honest, and generous. How we behave outside this lab reflects on everyone in it.
 - **We are here to grow.** Every person in this lab is here to become a better scientist and a more capable person. That requires taking intellectual risks, asking questions that might seem obvious, and being willing to be wrong in front of others. That kind of vulnerability is encouraged here, not penalized.
-- **We celebrate each other**. Every paper, every award, every first experiment that works — we mark it. Science is hard enough that wins deserve to be recognized!
+- **We celebrate each other**. Every paper, every award, every first experiment that works — we mark it. Science is hard enough that wins deserve to be recognized.
