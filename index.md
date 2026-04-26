@@ -71,6 +71,14 @@ We are building something here that is bigger than any single paper or discovery
   flip=true
 %}
 
+{%
+  include button.html
+  link="blog"
+  text="See what we're up to"
+  icon="fa-solid fa-cake-candles"
+  flip=true
+%}
+
 {% endcapture %}
 
 {%
