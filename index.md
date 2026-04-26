@@ -51,7 +51,7 @@ This vision depends on team science and close collaborations with investigators 
 
 {%
   include feature.html
-  image="images/YO_pic.jpg"
+  image="images/YO_cake.png"
   link="research"
   title="Our Mission"
   flip=true
