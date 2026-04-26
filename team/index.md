@@ -19,7 +19,6 @@ Meet the Shah Lab! We have open positions for research technicians, graduate stu
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-user-plus" %}Join Us!
-{% capture content %}
 
 The lab is early, the questions are open, and we're excited to get after it! If you are curious, rigorous, a team player, and care about doing science that matters, there is a place for you here.
 
@@ -31,4 +30,3 @@ Research Staff: We are looking for a research technician who wants to do real sc
 
 Undergraduate Students: Undergraduate research is one of the best things you can do for your scientific development, and we love to foster that. Summer projects are a great entry point. Students who can commit consistent time during the school year are the ones who contribute most meaningfully — including on manuscripts. If you are interested in what we do and want to learn what research actually looks like, reach out.
 
-{% endcapture %}
