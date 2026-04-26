@@ -41,8 +41,8 @@ This vision depends on team science and close collaborations with investigators 
 
 {%
   include button.html
-  link="research"
-  text="See our Publications"
+  link="Philosophy"
+  text="Why we do this"
   icon="fa-solid fa-arrow-right"
   flip=true
 %}
