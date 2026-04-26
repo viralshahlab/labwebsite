@@ -45,7 +45,7 @@ Diseases like Cystic Fibrosis and Primary Ciliary Dyskinesia are caused by defec
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/EM_zoom.png"
   title="Targeting the Hillock for Gene Therapy"
   text=text
 %}
