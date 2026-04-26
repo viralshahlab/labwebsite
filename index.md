@@ -10,7 +10,7 @@ Our central hypothesis is that this gap — restored cell fate without restored 
 
 
 ## The Vision
->#### Our goal is to make regeneration _functional_
+>#### Our goal is to make regeneration _functional_ not just anatomical
 {% capture text %}
 Clinically, we see a **paradox**. After injury, the airway surface is reconstituted. All the cell types are made. _And yet there remains a persistent susceptibility to infection and further injury_.
 
