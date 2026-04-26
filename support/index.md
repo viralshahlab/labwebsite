@@ -9,6 +9,8 @@ nav:
 
 We are deeply grateful to the wide variety of organizations and philanthropy who support our work!
 
+Our work is supported by an NIH K08 Career Development Award (NHLBI), a Vertex Research Innovation Award, Cystic Fibrosis Foundation awards (Leroy Matthews, K Boost, Traineeship awards), and philanthropic support. Together these provide stable, multi-year support for the lab's research program.
+
 No gift is too small. Please contact us below to support our investigations.
 
 {%
