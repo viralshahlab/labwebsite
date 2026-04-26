@@ -51,7 +51,7 @@ This vision depends on team science and close collaborations with investigators 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/YO_pic.jpg"
   link="research"
   title="Our Mission"
   flip=true
@@ -61,7 +61,7 @@ This vision depends on team science and close collaborations with investigators 
 
 {% capture text %}
 
-We are building something here that is bigger than any single paper or discovery. We are training the next generation of scientists. This lab runs on genuine collaboration: we push each other's thinking, cover each other's blind spots, and celebrate each other's wins as our own. Mentorship flows in every direction because we believe that a team that invests in each other produces better science and better scientists than any individual working alone ever could. Everyone who leaves this lab will be ready to ask bold questions, do rigorous work, and make a difference.
+We are building something here that is bigger than any single paper or discovery. Everyone who leaves this lab will be ready to ask bold questions, do rigorous work, and make a difference. This lab runs on genuine collaboration: we push each other's thinking, cover each other's blind spots, and **celebrate each other's wins as our own**. We do the work and we have fun doing it — because a community that actually enjoys being together does better science.
 
 {%
   include button.html
