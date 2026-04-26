@@ -39,7 +39,7 @@ The major question is that after hillock regeneration, is airway physiology rest
 
 {% capture text %}
 
-Diseases like Cystic Fibrosis and Primary Ciliary Dyskinesia are cause be defective genes in the airway epithelium. If we can restore the defective genes in airway stem cells, we may be able to improve these diseases for countless people. As the hillock is the primary stem cell source for regenerating the airways, if we are able to apply gene therapy to hillock stem cells, we can develop a durable and effective treatment. 
+Diseases like Cystic Fibrosis and Primary Ciliary Dyskinesia are caused by defective genes in the airway epithelium. If we can restore the defective genes in airway stem cells, we may be able to improve these diseases for countless people. As the hillock is the primary stem cell source for regenerating the airways, if we are able to apply gene therapy to hillock stem cells, we can develop a durable and effective treatment. 
 
 {% endcapture %}
 
