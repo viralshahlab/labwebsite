@@ -67,7 +67,7 @@ We are building something here that is bigger than any single paper or discovery
   include button.html
   link="team"
   text="Be part of our team"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-users"
   flip=true
 %}
 
