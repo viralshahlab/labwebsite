@@ -1,1 +1,1 @@
-Sitemap: https://viralshahlab.github.io/labwebsite/sitemap.xml
+Sitemap: http://www.viralshahlab.org/sitemap.xml
