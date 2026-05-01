@@ -1,1 +1,1 @@
-Sitemap: http://www.viralshahlab.org/sitemap.xml
+Sitemap: https://www.viralshahlab.org/sitemap.xml
