@@ -13,7 +13,7 @@ We are here because we are genuinely **excited** to uncover new biology and use 
 
 Our approach is simple: ask deliberate questions, follow the data wherever it leads, and hold ourselves to the highest standards. We believe that rigorous, curiosity-driven science is the most direct path to develop new therapeutic strategies. And we pursue it with conviction every day.
 
-**We are a team.** Science is hard. Experiments fail, hypotheses are wrong, and progress is slower than we want. We get through that **together**, supporting each other through the frustrations and celebrating every win. Our community gives us energy, resilience, and unbounded creativity to overcome any setbacks.
+**We are a team.** Science is hard. Experiments fail, hypotheses are wrong, and progress is slower than we want. We have the grit to power through. But we also lean on our team, **supporting each other** through the frustrations and celebrating every win. Our community gives us energy, fresh perspectives, and resilience to overcome any setbacks.
 
 Mentorship is my number one priority. My door is always open. I am genuinely excited to help you grow, both as a scientist and as a person. That means personalized attention to your scientific thinking, your technical development, and your career goals. It also means real investment in the things that come next: grant writing, job searching, networking, navigating the academic world. I am committed to helping you succeed in whatever path you choose.
 
