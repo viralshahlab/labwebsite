@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Our Philosophy
 
->We are here because we are genuinely **excited** to uncover new biology and use that understanding to help people. That motivation drives everything we do.
+>We are here because we are **excited** to uncover new biology and use that understanding to help people. That motivation drives everything we do.
 
 Our approach is simple: ask deliberate questions, follow the data wherever it leads, and hold ourselves to the highest standards. We believe that rigorous, curiosity-driven science is the most direct path to develop new therapeutic strategies. And we pursue it with conviction every day.
 
