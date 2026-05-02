@@ -24,7 +24,7 @@ We recently discovered the function of a new airway stem cell called the hillock
 
 {% capture text %}
 
-The major question is that after hillock regeneration, is airway physiology restored? We investigate various physiologic outputs like mucociliary transport, ion transport, and bacterial killing to assess whether these critical physiology outputs function normally. As an example, you see mucociliary transport captured by particle transport moving in an abnormal "hurricane". Our lab assesses physiology and then deciphers the cell biology and molecular mechanism underlying this dysfunction. 
+The major question is that after hillock regeneration, is airway physiology restored? We investigate various physiologic outputs like mucociliary transport, ion transport, and bacterial killing to assess whether these critical physiology outputs function normally. As an example, you see mucociliary transport captured by nanoparticle live imgaging showing abnormal directional transport in a "hurricane". Our lab assesses physiology and deciphers the cell biology and molecular mechanism underlying this dysfunction. 
 
 {% endcapture %}
 
@@ -39,7 +39,7 @@ The major question is that after hillock regeneration, is airway physiology rest
 
 {% capture text %}
 
-Diseases like Cystic Fibrosis and Primary Ciliary Dyskinesia are caused by defective genes in the airway epithelium. If we can restore the defective genes in airway stem cells, we may be able to improve these diseases for countless people. As the hillock is the primary stem cell source for regenerating the airways, if we are able to apply gene therapy to hillock stem cells, we can develop a durable and effective treatment. 
+Diseases like Cystic Fibrosis and Primary Ciliary Dyskinesia are caused by defective genes in the airway epithelium. If we can restore the defective genes in airway stem cells, we may be able to improve these diseases for countless people. As the hillock is the primary stem cell source for regenerating the airways, if we are able to apply gene therapy to hillock stem cells, we may be able to develop a durable and effective treatment. 
 
 {% endcapture %}
 
