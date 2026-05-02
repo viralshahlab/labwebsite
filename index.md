@@ -4,9 +4,9 @@
 
 ### The Shah lab studies **Physiologic Regeneration**: whether the airway restores not only its cellular architecture but also its _biological function_ after injury.
 
-We work at the intersection of stem cell biology, developmental biology, and epithelial physiology to understand why regeneration so often rebuilds structure while leaving function behind
+We work at the intersection of stem cell biology, developmental biology, and epithelial physiology to understand why regeneration so often rebuilds structure while leaving function behind.
 
-Our central hypothesis is that this gap — restored cell fate without restored function — is a shared pathophysiologic mechanism underlying cystic fibrosis, COPD, bronchiectasis, post-viral lung disease, and other conditions where the airway never fully recovers
+Our central hypothesis is that this gap — restored cell fate without restored function — is a shared pathophysiologic mechanism underlying cystic fibrosis, COPD, bronchiectasis, post-viral lung disease, and other conditions where the airway never fully recovers.
 
 
 ## The Vision
