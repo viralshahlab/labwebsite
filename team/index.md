@@ -16,7 +16,7 @@ Meet the Shah Lab! We have open positions for research technicians, graduate stu
 {% include list.html data="members" component="portrait" filter="name == 'Viral Shah'" %}
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/black.jpg" dark=true %}
 
 {% include section.html %}
 
