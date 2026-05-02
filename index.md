@@ -36,7 +36,7 @@ Our approach fuses developmental biology and physiology to interrogate this para
 
 {% capture text %}
 
-Our ultimate goal is to decipher the underlying pathophysiology to identify new therapeutic targets that can be used to help people. This is our mantra: to dissect fundamental biology with the creative insight to improve lives. 
+Our ultimate goal is to decipher the underlying pathophysiology to identify new therapeutic targets that can be used to help people. Our mantra is to dissect fundamental biology with the creative insight to improve lives. 
 This vision depends on team science and close collaborations with investigators across physiology, cell biology, pathology, and clinical medicine.
 
 {%
