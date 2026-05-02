@@ -22,7 +22,7 @@ Click [here](https://www.youtube.com/playlist?list=PLS-0_ATLgtJraww6TzpFyqgsD2UK
   include button.html
   link="https://www.ncbi.nlm.nih.gov/myncbi/viral.shah.2/bibliography/public/"
   text="Pubmed"
-  icon="fa-solid fa-book"
+  icon="fa-solid fa-dna"
   flip=true
 %}
 {% include section.html %}
