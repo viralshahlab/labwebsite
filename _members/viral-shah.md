@@ -11,7 +11,7 @@ links:
   orcid: 0000-0002-3605-806
 ---
 
-I grew up in a suburb of Chicago where I was a total nerd and did high school at the Illinois Math & Science Academy. There is where I learned what an MD/PhD was and did benchwork for the first time. I attended Case Western Reserve University for undergrad.
+I grew up in a suburb of Chicago where I was a total nerd and did high school at the Illinois Math & Science Academy. There is where I learned what an MD/PhD was and did benchwork for the first time at Northwestern Feinberg School of Medicine. I attended Case Western Reserve University for undergrad.
 I did my MD/PhD at the University of Iowa. My graduate school studies were with Dr. Mike Welsh, studying airway physiology in cystic fibrosis. I went on to do my internal medicine residency training at the Massachusetts General Hospital in the Physician Scientist Program and my fellowship training in Pulmonary and Critical Care medicine in the Harvard Combined Program. My postdoc work was with Dr. Jay Rajagopal, learning airway stem cell biology.
 I am lucky to have had such inspirational mentors and they are a big reason I do what I do. 
 
