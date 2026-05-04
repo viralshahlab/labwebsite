@@ -21,7 +21,7 @@ If you wake up excited about science, care deeply about making a difference, and
 
 ## Code of Conduct
 
-- **We treat each other with respect.** The lab includes people from all walks of life, backgrounds, and experiences. Everyone deserves to be heard, taken seriously, and treated with dignity. We value everyone's unique perspective. Harrasment of any kind is not tolerated.
+- **We treat each other with respect.** The lab includes people from all walks of life, backgrounds, and experiences. Everyone deserves to be heard, taken seriously, and treated with dignity. We value everyone's unique perspective. Harassment of any kind is not tolerated.
 - **We do rigorous science.** We design experiments to test hypotheses, not confirm them. We report what we find, not what we hoped to find. We do not cut corners on controls, replicates, or documentation. If a result seems too clean, we question it. Our credibility as scientists depends entirely on the integrity of our data.
 - **We own our mistakes.** Experiments fail. Analyses have errors. That is normal. What is not acceptable is hiding a mistake, minimizing it, or hoping no one notices. Bring problems forward early. We fix them together and move on. A lab that can identify and correct its own errors is a lab that can be trusted. We expect ethical behavior in all of the lab's activities.
 - **We share credit generously.** Science is collaborative. We acknowledge contributions, cite colleagues fairly, and do not compete internally for recognition. A win for one person in this lab is a win for all of us. Karma has a way of coming back to you.
