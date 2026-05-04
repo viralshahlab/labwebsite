@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-pencil" %}Publications
 
-Check out some of our research presentations and publications here. We are big fans of having our members at all levels gives talks, present posters, and produce scientific literature!
+Check out some of our research presentations and publications here. We are big fans of having our members at all levels give talks, present posters, and produce scientific literature!
 
 Click [here](https://www.youtube.com/playlist?list=PLS-0_ATLgtJraww6TzpFyqgsD2UKpY_wL) to see our talks!
 
