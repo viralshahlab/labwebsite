@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-flask" %}Science
 
-We study Physiologic Regeneration. This is a fusion of stem cell biology and physiologoy to define how function is restored after regeneration. We use the airway surface epithelium as a model system as it is constantly exposed to the environment and must recover after injury. The airway also performs a number of vital measurable physiologic outputs. 
+We study Physiologic Regeneration. This is a fusion of stem cell biology and physiology to define how function is restored after regeneration. We use the airway surface epithelium as a model system as it is constantly exposed to the environment and must recover after injury. The airway also performs a number of vital measurable physiologic outputs. 
 
 {% capture text %}
 
