@@ -9,7 +9,7 @@ nav:
 
 >**We are looking for people who are excited by an unexpected result and disciplined enough to figure out what it actually means.**
 
-Meet the Shah Lab! We have open positions for research technicians, graduate students, and postdocs. If you think you'd be a good fit, please send [Viral](mailto:viralshahlab@gmail.com) your CV/Resume, your interests, and overall goals. See below for more details. 
+Meet the Shah Lab! We have open positions for research technicians, graduate students, and postdocs. If you think you'd be a good fit, please send [Dr. Shah](mailto:viralshahlab@gmail.com) your CV/Resume, your interests, and overall goals. See below for more details. 
 
 {% include section.html %}
 
