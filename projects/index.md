@@ -24,7 +24,7 @@ We recently discovered the function of a new airway stem cell called the hillock
 
 {% capture text %}
 
-The major question is that after hillock regeneration, is airway physiology restored? We investigate various physiologic outputs like mucociliary transport, ion transport, and bacterial killing to assess whether these critical physiologic outputs function normally. As an example, you see mucociliary transport captured by nanoparticle live imaging showing abnormal directional transport in a "hurricane". Our lab assesses physiology and deciphers the cell biology and molecular mechanisms underlying this dysfunction. 
+The major question is whether after hillock regeneration, is airway physiology restored? We investigate various physiologic outputs like mucociliary transport, ion transport, and bacterial killing to assess whether these critical physiologic outputs function normally. As an example, you see mucociliary transport captured by nanoparticle live imaging showing abnormal directional transport in a "hurricane". Our lab assesses physiology and deciphers the cell biology and molecular mechanisms underlying this dysfunction. 
 
 {% endcapture %}
 
