@@ -1,5 +1,5 @@
 ---
-name: Viral Shah, MD PhD
+name: Viral Shah MD PhD
 image: images/Shah-Viral.jpg
 role: principal-investigator
 affiliation: 
