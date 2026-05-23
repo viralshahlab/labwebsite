@@ -13,11 +13,11 @@ Meet the Shah Lab! We have open positions for research technicians, graduate stu
 
 {% include section.html %}
 
-##Current Team
+## Current Team
 {% include list.html data="members" component="portrait" filter="name == 'Viral Shah, MD PhD'" %}
 
-##Alumni
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
+## Alumni
+{% include list.html data="members" component="portrait" filter="group == 'alum'" %}
 
 {% include section.html background="images/black.jpg" dark=true %}
 
