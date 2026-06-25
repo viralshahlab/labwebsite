@@ -25,5 +25,5 @@ We are located on the 10th floor of the Smilow Center for Translational Research
 {%
   include figure.html
   image="images/Smilow.jpg"
-  width="400px"
+  width="1000px"
 %}
