@@ -11,8 +11,6 @@ nav:
 
 We are located on the 10th floor of the Smilow Center for Translational Research. 
 
-{% endcapture %}
-
 {%
   include button.html
   type="email"
