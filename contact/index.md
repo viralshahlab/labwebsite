@@ -22,24 +22,8 @@ We are located on the 10th floor of the Smilow Center for Translational Research
   link="https://maps.app.goo.gl/Fyk7uERUENoR2eFX9"
 %}
 
-{% include section.html %}
-
-{% capture col1 %}
-
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Location"
+  image="images/Smilow.jpg"
+  width="400px"
 %}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/smilow.jpg"
-  caption="Location"
-%}
-
-{% endcapture %}
