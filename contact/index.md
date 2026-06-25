@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-{% capture text %}
-
 We are located on the 10th floor of the Smilow Center for Translational Research. 
 
 {%
