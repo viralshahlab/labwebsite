@@ -7,7 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-
 {%
   include button.html
   type="email"
@@ -18,7 +17,7 @@ nav:
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/Fyk7uERUENoR2eFX9"
 %}
 
 {% include section.html %}
@@ -37,7 +36,7 @@ nav:
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/smilow.jpg"
   caption="Location"
 %}
 
