@@ -163,9 +163,9 @@
   file: sources.yaml
   image: https://www.annualreviews.org/docserver/fulltext/pathmechdis-184x258.png
 - id: doi:10.1073/pnas.1604905113
-  title: "Relationships among CFTR expression, HCO\n            <sub>3</sub>\n   \
-    \         <sup>\u2212</sup>\n            secretion, and host defense may inform\
-    \ gene- and cell-based cystic fibrosis therapies"
+  title: "Relationships among CFTR expression, HCO\n                    <sub>3</sub>\n\
+    \                    <sup>\u2212</sup>\n                    secretion, and host\
+    \ defense may inform gene- and cell-based cystic fibrosis therapies"
   authors:
   - Viral S. Shah
   - Sarah Ernst
