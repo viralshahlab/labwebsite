@@ -1,7 +1,7 @@
 ---
 title: Lab Opens at Penn!
 author: ""
-image: images/Smilow open.jpg
+image: images/Smilow_open.jpg
 tags:
 last_modified_at: ""
 ---
