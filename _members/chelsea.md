@@ -1,5 +1,5 @@
 ---
-name: Chelsea Thorshiem
+name: Chelsea Thorsheim
 image: 
 role: postdoc
 group: current
