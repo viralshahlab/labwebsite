@@ -1,6 +1,6 @@
 ---
 name: Chelsea Thorsheim
-image: Thorsheim_UpdatedPic.jpg
+image: images/Thorsheim_UpdatedPic.jpg
 role: postdoc
 group: current
 ---
