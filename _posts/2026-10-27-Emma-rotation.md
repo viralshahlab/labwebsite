@@ -1,7 +1,7 @@
 ---
 title: Emma's Rotation Lunch! 
 author: ""
-image: images/Emma_rotationlunch2.jpg
+image: images/Emma_rotationlunch2small.jpg
 tags:
 last_modified_at: ""
 ---
