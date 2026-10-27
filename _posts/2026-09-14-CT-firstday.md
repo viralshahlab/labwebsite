@@ -1,7 +1,7 @@
 ---
 title: Chelsea's First Day!
 author: ""
-image: images/Chelsea-lunch.jpg
+image: images/Chelsea-lunchsmall.jpg
 tags:
 last_modified_at: ""
 ---
