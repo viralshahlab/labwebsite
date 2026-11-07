@@ -6,4 +6,4 @@ tags:
 last_modified_at: ""
 ---
 
-We celebrated Emmas rotating in the lab with lunch at Lemongrass Thai!
+We celebrated Emma rotating in the lab with lunch at Lemongrass Thai!
