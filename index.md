@@ -83,7 +83,7 @@ We are building something here that is bigger than any single paper or discovery
 
 {%
   include feature.html
-  image="images/Shah Lab photo_103026.jpg"
+  image="images/ShahLabphoto_103026.jpg"
   link="team"
   title="Our Team"
   text=text
